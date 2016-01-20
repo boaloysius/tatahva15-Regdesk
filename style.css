@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#f4f4f4;
+}
+
+table {
+	width:80%;
+	border:1px solid #ccc;
+	clear:both;
+}
+
+td{
+	height:40px;
+	border:1px solid #ccc;
+}
+
+.addmember{
+	width:240px;
+	height:30px;
+	color:#F00;
+	display:block;
+	float:left;
+	clear:both;
+}
+
+.logout
+{
+	float: right;
+	padding: 5px 5px 5px 5px;
+	background-color: red;
+	color: white;
+	margin-right: 30px;
+}
+
+.logout a
+{
+	padding: 5px 5px 5px 5px;
+	background-color: red;
+	color: white;
+}
+
+.jumbo a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.jumbo
+{
+	width: 500px;
+	height: 300px;
+	border: 3px solid #ccc;
+	margin: auto;
+}
+
+.jumbo form
+{
+	margin-top: 80px;
+}
+
+.redirect
+{
+	font-size: 30px;
+	width: 100px;
+	color: red;
+}

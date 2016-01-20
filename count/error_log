@@ -1,0 +1,2 @@
+[30-Oct-2015 13:52:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ',' or ';' in /home2/nitcfest/public_html/regtest/count/index.php on line 19
+[30-Oct-2015 13:52:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ',' or ';' in /home2/nitcfest/public_html/regtest/count/index.php on line 19

@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:rgb(202, 228, 182);
+	height:100vh;
+}
+
+.main_back{
+	height:100vh;
+	width:100%;
+}
+
+.tathva_heading{
+	font-size:60px;
+	color:#ffffff;
+}
+
+.box{
+    width: 400px;
+    height: 300px;
+    border: #9C0 solid 5px;
+    display: block;
+	color:rgb(201, 78, 80);
+	margin-left:50%;
+	transform:translateX(-50%);
+	text-align:center;
+	font-size:80px
+}
+
+ span{
+	vertical-align:middle;
+	height:100%;
+	display:inline-block;
+}

@@ -1,0 +1,106 @@
+body{
+  font-family: 'Cleanest', monospace;
+  background-color: #f4f4f4 !important;
+  color:#fff;
+}
+@font-face {
+  font-family: "Cleanest";
+  src: url(helvetica.ttf);
+}
+#main_head{
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.labelo
+{
+ color: #222;
+ font-size: 45px;
+ margin-bottom: 10px;
+ margin-top: 10px;
+}
+.them_boxes
+{
+  color:#000;
+  background-color: #999;
+  border-style: none;
+  font-size: 30px;
+  margin-top: 10px;
+    font-family: 'Cleanest', monospace;
+}
+.button{
+    padding:5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+  font-size: 30px;
+  font-family: 'Cleanest', monospace;
+  text-align: center;
+  border-radius: 30px;
+  border-color: #aaa;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #ddd;
+  color: #000;
+}
+.button:hover{
+  cursor: pointer;
+}
+#alerter{
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 10px;
+  padding: 10px;
+  border-width: 1px;
+  border-color: #CCC;
+  border-style: solid;
+  background-color: #DDD;
+  color: #000;
+  opacity: 0.6;
+  position: fixed;
+  height: 400px;
+  top:100px;
+  text-align: center;
+}
+#background{
+  z-index: -4;
+
+}
+#tathva{
+    width: 10%;
+    position: fixed;
+    z-index: 2;
+    bottom: 1px;
+    left:45%;
+}
+#extra{
+    color: #000;
+    background: #def;
+    border-radius: 10px;
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ddf;
+    margin-top: 7%;
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    position: fixed;
+    display: block;
+    font-family: 'Cleanest',monospace;
+    z-index: 5;
+}
+.menu_button{
+  position: absolute;
+}
+#part{
+  margin-top: 30px;
+}
+#acc_details{
+  margin-top:100px;
+  margin-left: 190px;
+}
+
+#part{
+	margin:auto;
+}
